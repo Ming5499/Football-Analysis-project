@@ -1,0 +1,13 @@
+AWS EC2
+1. create instance
+2. edit inbound rules
+3. launch instance 
+4. install dependencies
+5. login ec2 airflow
+6. remote SSH vscode to ec2
+
+Snowflake
+1. query snowflake sql
+2. use DESC PIPE take notiffication_channel
+3. go AWS S3 to configure event notiffications 
+4. connect snowflake with tableau
