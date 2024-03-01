@@ -1,0 +1,737 @@
+Number,Player Name,Nation,Position,Age,Club
+1,Essam El Hadary,Egypt,GK,45,Al Taawoun
+2,Ali Gabr,Egypt,DF,29,West Bromwich Albion
+3,Ahmed Elmohamady,Egypt,DF,30,Aston Villa
+4,Omar Gaber,Egypt,MF,26,Los Angeles FC
+5,Sam Morsy,Egypt,MF,26,Wigan Athletic
+6,Ahmed Hegazi,Egypt,DF,27,West Bromwich Albion
+7,Ahmed Fathy,Egypt,DF,33,Al Ahly
+8,Tarek Hamed,Egypt,MF,29,Zamalek
+9,Marwan Mohsen,Egypt,FW,29,Al Ahly
+10,Mohamed Salah,Egypt,FW,25,Liverpool
+11,Kahraba,Egypt,FW,24,Al-Ittihad
+12,Ayman Ashraf,Egypt,DF,27,Al Ahly
+13,Mohamed Abdel Shafy,Egypt,DF,32,Al Fateh
+14,Ramadan Sobhi,Egypt,FW,21,Stoke City
+15,Mahmoud Hamdy,Egypt,DF,23,Zamalek
+16,Sherif Ekramy,Egypt,GK,34,Al Ahly
+17,Mohamed Elneny,Egypt,MF,25,Arsenal
+18,Shikabala,Egypt,FW,32,Al Raed
+19,Abdallah El Said,Egypt,MF,32,KuPS
+20,Saad Samir,Egypt,DF,29,Al Ahly
+21,Trézéguet,Egypt,MF,23,Kasımpaşa
+22,Amr Warda,Egypt,FW,24,Atromitos
+23,Mohamed El Shenawy,Egypt,GK,29,Al Ahly
+24,Igor Akinfeev,Russia,GK,32,CSKA Moscow
+25,Mário Fernandes,Russia,DF,27,CSKA Moscow
+26,Ilya Kutepov,Russia,DF,24,Spartak Moscow
+27,Sergei Ignashevich,Russia,DF,38,CSKA Moscow
+28,Andrei Semyonov,Russia,DF,29,Akhmat Grozny
+29,Denis Cheryshev,Russia,MF,27,Villarreal
+30,Daler Kuzyayev,Russia,MF,25,Zenit Saint Petersburg
+31,Yury Gazinsky,Russia,MF,28,Krasnodar
+32,Alan Dzagoev,Russia,MF,27,CSKA Moscow
+33,Fyodor Smolov,Russia,FW,28,Krasnodar
+34,Roman Zobnin,Russia,MF,24,Spartak Moscow
+35,Andrey Lunyov,Russia,GK,26,Zenit Saint Petersburg
+36,Fyodor Kudryashov,Russia,DF,31,Rubin Kazan
+37,Vladimir Granat,Russia,DF,31,Rubin Kazan
+38,Aleksei Miranchuk,Russia,MF,22,Lokomotiv Moscow
+39,Anton Miranchuk,Russia,MF,22,Lokomotiv Moscow
+40,Aleksandr Golovin,Russia,MF,22,CSKA Moscow
+41,Yuri Zhirkov,Russia,MF,34,Zenit Saint Petersburg
+42,Aleksandr Samedov,Russia,MF,33,Spartak Moscow
+43,Vladimir Gabulov,Russia,GK,34,Club Brugge
+44,Aleksandr Yerokhin,Russia,MF,28,Zenit Saint Petersburg
+45,Artem Dzyuba,Russia,FW,29,Arsenal Tula
+46,Igor Smolnikov,Russia,DF,29,Zenit Saint Petersburg
+47,Abdullah Al-Mayouf,Arabia,GK,31,Al Hilal
+48,Mansoor Al-Harbi,Arabia,DF,30,Al Ahli
+49,Osama Hawsawi,Arabia,DF,34,Al Hilal
+50,Ali Al-Bulaihi,Arabia,DF,28,Al Hilal
+51,Omar Hawsawi,Arabia,DF,32,Al Nassr
+52,Mohammed Al-Breik,Arabia,DF,25,Al Hilal
+53,Salman Al-Faraj,Arabia,MF,28,Al Hilal
+54,Yahya Al-Shehri,Arabia,MF,27,Leganés
+55,Hattan Bahebri,Arabia,MF,25,Al Shabab
+56,Mohammad Al-Sahlawi,Arabia,FW,31,Al Nassr
+57,Abdulmalek Al-Khaibri,Arabia,MF,32,Al Hilal
+58,Mohamed Kanno,Arabia,MF,23,Al Hilal
+59,Yasser Al-Shahrani,Arabia,DF,26,Al Hilal
+60,Abdullah Otayf,Arabia,MF,25,Al Hilal
+61,Abdullah Al-Khaibari,Arabia,MF,21,Al Shabab
+62,Housain Al-Mogahwi,Arabia,MF,30,Al Ahli
+63,Taisir Al-Jassim,Arabia,MF,33,Al Ahli
+64,Salem Al-Dawsari,Arabia,MF,26,Villarreal
+65,Fahad Al-Muwallad,Arabia,FW,23,Levante
+66,Muhannad Assiri,Arabia,FW,31,Al Ahli
+67,Yasser Al-Mosailem,Arabia,GK,34,Al Ahli
+68,Mohammed Al-Owais,Arabia,GK,26,Al Ahli
+69,Motaz Hawsawi,Arabia,DF,26,Al Ahli
+70,Fernando Muslera,Uruguay,GK,31,Galatasaray
+71,José Giménez,Uruguay,DF,23,Atlético Madrid
+72,Diego Godín,Uruguay,DF,32,Atlético Madrid
+73,Guillermo Varela,Uruguay,DF,25,Peñarol
+74,Carlos Sánchez,Uruguay,MF,33,Monterrey
+75,Rodrigo Bentancur,Uruguay,MF,20,Juventus
+76,Cristian Rodríguez,Uruguay,MF,32,Peñarol
+77,Nahitan Nández,Uruguay,MF,22,Boca Juniors
+78,Luis Suárez,Uruguay,FW,31,Barcelona
+79,Giorgian De Arrascaeta,Uruguay,FW,24,Cruzeiro
+80,Cristhian Stuani,Uruguay,FW,31,Girona
+81,Martín Campaña,Uruguay,GK,29,Independiente
+82,Gastón Silva,Uruguay,DF,24,Independiente
+83,Lucas Torreira,Uruguay,MF,22,Sampdoria
+84,Matías Vecino,Uruguay,MF,26,Inter Milan
+85,Maxi Pereira,Uruguay,DF,34,Porto
+86,Diego Laxalt,Uruguay,MF,25,Genoa
+87,Maxi Gómez,Uruguay,FW,21,Celta Vigo
+88,Sebastián Coates,Uruguay,DF,27,Sporting CP
+89,Jonathan Urretaviscaya,Uruguay,FW,28,Monterrey
+90,Edinson Cavani,Uruguay,FW,31,Paris Saint-Germain
+91,Martín Cáceres,Uruguay,DF,31,Lazio
+92,Martín Silva,Uruguay,GK,35,Vasco da Gama
+93,Alireza Beiranvand,Iran,GK,25,Persepolis
+94,Mehdi Torabi,Iran,MF,23,Saipa
+95,Ehsan Hajsafi,Iran,DF,28,Olympiacos
+96,Rouzbeh Cheshmi,Iran,MF,24,Esteghlal
+97,Milad Mohammadi,Iran,DF,24,Akhmat Grozny
+98,Saeid Ezatolahi,Iran,MF,21,Amkar Perm
+99,Masoud Shojaei,Iran,MF,34,AEK Athens
+100,Morteza Pouraliganji,Iran,DF,26,Al Sadd
+101,Omid Ebrahimi,Iran,MF,30,Esteghlal
+102,Karim Ansarifard,Iran,FW,28,Olympiacos
+103,Vahid Amiri,Iran,MF,30,Persepolis
+104,Mohammad Rashid Mazaheri,Iran,GK,29,Zob Ahan
+105,Mohammad Reza Khanzadeh,Iran,DF,27,Padideh
+106,Saman Ghoddos,Iran,FW,24,Östersund
+107,Pejman Montazeri,Iran,DF,34,Esteghlal
+108,Reza Ghoochannejhad,Iran,FW,30,Heerenveen
+109,Mehdi Taremi,Iran,FW,25,Al-Gharafa
+110,Alireza Jahanbakhsh,Iran,FW,24,AZ
+111,Majid Hosseini,Iran,DF,21,Esteghlal
+112,Sardar Azmoun,Iran,FW,23,Rubin Kazan
+113,Ashkan Dejagah,Iran,MF,31,Nottingham Forest
+114,Amir Abedzadeh,Iran,GK,25,Marítimo
+115,Ramin Rezaeian,Iran,DF,28,Oostende
+116,Yassine Bounou,Morocco,GK,27,Girona
+117,Achraf Hakimi,Morocco,DF,19,Real Madrid
+118,Hamza Mendyl,Morocco,DF,20,Lille
+119,Manuel da Costa,Morocco,DF,32,İstanbul Başakşehir
+120,Medhi Benatia,Morocco,DF,31,Juventus
+121,Romain Saïss,Morocco,DF,28,Wolverhampton Wanderers
+122,Hakim Ziyech,Morocco,MF,25,Ajax
+123,Karim El Ahmadi,Morocco,MF,33,Feyenoord
+124,Ayoub El Kaabi,Morocco,FW,24,RS Berkane
+125,Younès Belhanda,Morocco,MF,28,Galatasaray
+126,Fayçal Fajr,Morocco,MF,29,Getafe
+127,Munir Mohamedi,Morocco,GK,29,Numancia
+128,Khalid Boutaïb,Morocco,FW,31,Yeni Malatyaspor
+129,Mbark Boussoufa,Morocco,MF,33,Al Jazira
+130,Youssef Aït Bennasser,Morocco,MF,21,Caen
+131,Nordin Amrabat,Morocco,MF,31,Leganés
+132,Nabil Dirar,Morocco,DF,32,Fenerbahçe
+133,Amine Harit,Morocco,MF,20,Schalke 04
+134,Youssef En-Nesyri,Morocco,FW,21,Málaga
+135,Aziz Bouhaddouz,Morocco,FW,31,FC St. Pauli
+136,Sofyan Amrabat,Morocco,MF,21,Feyenoord
+137,Ahmed Reda Tagnaouti,Morocco,GK,22,IR Tanger
+138,Mehdi Carcela,Morocco,MF,28,Standard Liège
+139,Rui Patrício,Portugal,GK,30,Sporting CP
+140,Bruno Alves,Portugal,DF,36,Rangers
+141,Pepe,Portugal,DF,35,Beşiktaş
+142,Manuel Fernandes,Portugal,MF,32,Lokomotiv Moscow
+143,Raphaël Guerreiro,Portugal,DF,24,Borussia Dortmund
+144,José Fonte,Portugal,DF,34,Dalian Yifang
+145,Cristiano Ronaldo,Portugal,FW,33,Real Madrid
+146,João Moutinho,Portugal,MF,31,Monaco
+147,André Silva,Portugal,FW,22,Milan
+148,João Mário,Portugal,MF,25,West Ham United
+149,Bernardo Silva,Portugal,MF,23,Manchester City
+150,Anthony Lopes,Portugal,GK,27,Lyon
+151,Rúben Dias,Portugal,DF,21,Benfica
+152,William Carvalho,Portugal,MF,26,Sporting CP
+153,Ricardo Pereira,Portugal,DF,24,Porto
+154,Bruno Fernandes,Portugal,MF,23,Sporting CP
+155,Gonçalo Guedes,Portugal,FW,21,Valencia
+156,Gelson Martins,Portugal,FW,23,Sporting CP
+157,Mário Rui,Portugal,DF,27,Napoli
+158,Ricardo Quaresma,Portugal,FW,34,Beşiktaş
+159,Cédric,Portugal,DF,26,Southampton
+160,Beto,Portugal,GK,36,Göztepe
+161,Adrien Silva,Portugal,MF,29,Leicester City
+162,David de Gea,Spain,GK,27,Manchester United
+163,Dani Carvajal,Spain,DF,26,Real Madrid
+164,Gerard Piqué,Spain,DF,31,Barcelona
+165,Nacho,Spain,DF,28,Real Madrid
+166,Sergio Busquets,Spain,MF,29,Barcelona
+167,Andrés Iniesta,Spain,MF,34,Barcelona
+168,Saúl,Spain,MF,23,Atlético Madrid
+169,Koke,Spain,MF,26,Atlético Madrid
+170,Rodrigo,Spain,FW,27,Valencia
+171,Thiago,Spain,MF,27,Bayern Munich
+172,Lucas Vázquez,Spain,FW,26,Real Madrid
+173,Álvaro Odriozola,Spain,DF,22,Real Sociedad
+174,Kepa Arrizabalaga,Spain,GK,23,Athletic Bilbao
+175,César Azpilicueta,Spain,DF,28,Chelsea
+176,Sergio Ramos,Spain,DF,32,Real Madrid
+177,Nacho Monreal,Spain,DF,32,Arsenal
+178,Iago Aspas,Spain,FW,30,Celta Vigo
+179,Jordi Alba,Spain,DF,29,Barcelona
+180,Diego Costa,Spain,FW,29,Atlético Madrid
+181,Marco Asensio,Spain,MF,22,Real Madrid
+182,David Silva,Spain,FW,32,Manchester City
+183,Isco,Spain,MF,26,Real Madrid
+184,Pepe Reina,Spain,GK,35,Napoli
+185,Mathew Ryan,Australia,GK,26,Brighton & Hove Albion
+186,Miloš Degenek,Australia,DF,24,Yokohama F. Marinos
+187,James Meredith,Australia,DF,30,Millwall
+188,Tim Cahill,Australia,FW,38,Millwall
+189,Mark Milligan,Australia,DF,32,Al Ahli
+190,Matthew Jurman,Australia,DF,28,Suwon Samsung Bluewings
+191,Mathew Leckie,Australia,FW,27,Hertha BSC
+192,Massimo Luongo,Australia,MF,25,Queens Park Rangers
+193,Tomi Juric,Australia,FW,26,Luzern
+194,Robbie Kruse,Australia,FW,29,VfL Bochum
+195,Andrew Nabbout,Australia,FW,25,Urawa Red Diamonds
+196,Brad Jones,Australia,GK,36,Feyenoord
+197,Aaron Mooy,Australia,MF,27,Huddersfield Town
+198,Jamie Maclaren,Australia,FW,24,Hibernian
+199,Mile Jedinak,Australia,MF,33,Aston Villa
+200,Aziz Behich,Australia,DF,27,Bursaspor
+201,Daniel Arzani,Australia,FW,19,Melbourne City
+202,Danny Vukovic,Australia,GK,33,Genk
+203,Josh Risdon,Australia,DF,25,Western Sydney Wanderers
+204,Trent Sainsbury,Australia,DF,26,Grasshopper
+205,Dimitri Petratos,Australia,FW,25,Newcastle Jets
+206,Jackson Irvine,Australia,MF,25,Hull City
+207,Tom Rogic,Australia,MF,25,Celtic
+208,Kasper Schmeichel,Denmark,GK,31,Leicester City
+209,Michael Krohn-Dehli,Denmark,MF,35,Deportivo La Coruña
+210,Jannik Vestergaard,Denmark,DF,25,Borussia Mönchengladbach
+211,Simon Kjær,Denmark,DF,29,Sevilla
+212,Jonas Knudsen,Denmark,DF,25,Ipswich Town
+213,Andreas Christensen,Denmark,DF,22,Chelsea
+214,William Kvist,Denmark,MF,33,Copenhagen
+215,Thomas Delaney,Denmark,MF,26,Werder Bremen
+216,Nicolai Jørgensen,Denmark,FW,27,Feyenoord
+217,Christian Eriksen,Denmark,MF,26,Tottenham Hotspur
+218,Martin Braithwaite,Denmark,FW,27,Bordeaux
+219,Kasper Dolberg,Denmark,FW,20,Ajax
+220,Mathias Jørgensen,Denmark,DF,28,Huddersfield Town
+221,Henrik Dalsgaard,Denmark,DF,28,Brentford
+222,Viktor Fischer,Denmark,FW,24,Copenhagen
+223,Jonas Lössl,Denmark,GK,29,Huddersfield Town
+224,Jens Stryger Larsen,Denmark,DF,27,Udinese
+225,Lukas Lerager,Denmark,MF,24,Bordeaux
+226,Lasse Schöne,Denmark,MF,32,Ajax
+227,Yussuf Poulsen,Denmark,FW,23,RB Leipzig
+228,Andreas Cornelius,Denmark,FW,25,Atalanta
+229,Frederik Rønnow,Denmark,GK,25,Brøndby
+230,Pione Sisto,Denmark,FW,23,Celta Vigo
+231,Hugo Lloris,France,GK,31,Tottenham Hotspur
+232,Benjamin Pavard,France,DF,22,VfB Stuttgart
+233,Presnel Kimpembe,France,DF,22,Paris Saint-Germain
+234,Raphaël Varane,France,DF,25,Real Madrid
+235,Samuel Umtiti,France,DF,24,Barcelona
+236,Paul Pogba,France,MF,25,Manchester United
+237,Antoine Griezmann,France,FW,27,Atlético Madrid
+238,Thomas Lemar,France,FW,22,Monaco
+239,Olivier Giroud,France,FW,31,Chelsea
+240,Kylian Mbappé,France,FW,19,Paris Saint-Germain
+241,Ousmane Dembélé,France,FW,21,Barcelona
+242,Corentin Tolisso,France,MF,23,Bayern Munich
+243,N'Golo Kanté,France,MF,27,Chelsea
+244,Blaise Matuidi,France,MF,31,Juventus
+245,Steven Nzonzi,France,MF,29,Sevilla
+246,Steve Mandanda,France,GK,33,Marseille
+247,Adil Rami,France,DF,32,Marseille
+248,Nabil Fekir,France,FW,24,Lyon
+249,Djibril Sidibé,France,DF,25,Monaco
+250,Florian Thauvin,France,FW,25,Marseille
+251,Lucas Hernandez,France,DF,22,Atlético Madrid
+252,Benjamin Mendy,France,DF,23,Manchester City
+253,Alphonse Areola,France,GK,25,Paris Saint-Germain
+254,Pedro Gallese,Peru,GK,28,Veracruz
+255,Alberto Rodríguez,Peru,DF,34,Atlético Junior
+256,Aldo Corzo,Peru,DF,29,Universitario
+257,Anderson Santamaría,Peru,DF,26,Puebla
+258,Miguel Araujo,Peru,DF,23,Alianza Lima
+259,Miguel Trauco,Peru,DF,25,Flamengo
+260,Paolo Hurtado,Peru,MF,27,Vitória de Guimarães
+261,Christian Cueva,Peru,MF,26,São Paulo
+262,Paolo Guerrero,Peru,FW,34,Flamengo
+263,Jefferson Farfán,Peru,FW,33,Lokomotiv Moscow
+264,Raúl Ruidíaz,Peru,FW,27,Morelia
+265,Carlos Cáceda,Peru,GK,26,Deportivo Municipal
+266,Renato Tapia,Peru,MF,22,Feyenoord
+267,Andy Polo,Peru,MF,23,Portland Timbers
+268,Christian Ramos,Peru,DF,29,Veracruz
+269,Wilder Cartagena,Peru,MF,23,Veracruz
+270,Luis Advíncula,Peru,DF,28,Lobos BUAP
+271,André Carrillo,Peru,FW,27,Watford
+272,Yoshimar Yotún,Peru,MF,28,Orlando City
+273,Edison Flores,Peru,FW,24,AaB
+274,José Carvallo,Peru,GK,32,UTC
+275,Nilson Loyola,Peru,DF,23,Melgar
+276,Pedro Aquino,Peru,MF,23,Lobos BUAP
+277,Nahuel Guzmán,Argentina,GK,32,UANL
+278,Gabriel Mercado,Argentina,DF,31,Sevilla
+279,Nicolás Tagliafico,Argentina,DF,25,Ajax
+280,Cristian Ansaldi,Argentina,DF,31,Torino
+281,Lucas Biglia,Argentina,MF,32,Milan
+282,Federico Fazio,Argentina,DF,31,Roma
+283,Éver Banega,Argentina,MF,29,Sevilla
+284,Marcos Acuña,Argentina,DF,26,Sporting CP
+285,Gonzalo Higuaín,Argentina,FW,30,Juventus
+286,Lionel Messi,Argentina,FW,30,Barcelona
+287,Ángel Di María,Argentina,MF,30,Paris Saint-Germain
+288,Franco Armani,Argentina,GK,31,River Plate
+289,Maximiliano Meza,Argentina,MF,25,Independiente
+290,Javier Mascherano,Argentina,DF,34,Hebei China Fortune
+291,Enzo Pérez,Argentina,MF,32,River Plate
+292,Marcos Rojo,Argentina,DF,28,Manchester United
+293,Nicolás Otamendi,Argentina,DF,30,Manchester City
+294,Eduardo Salvio,Argentina,DF,27,Benfica
+295,Sergio Agüero,Argentina,FW,30,Manchester City
+296,Giovani Lo Celso,Argentina,MF,22,Paris Saint-Germain
+297,Paulo Dybala,Argentina,FW,24,Juventus
+298,Cristian Pavón,Argentina,MF,22,Boca Juniors
+299,Willy Caballero,Argentina,GK,36,Chelsea
+300,Dominik Livaković,Croatia,GK,23,Dinamo Zagreb
+301,Šime Vrsaljko,Croatia,DF,26,Atlético Madrid
+302,Ivan Strinić,Croatia,DF,30,Sampdoria
+303,Ivan Perišić,Croatia,FW,29,Inter Milan
+304,Vedran Ćorluka,Croatia,DF,32,Lokomotiv Moscow
+305,Dejan Lovren,Croatia,DF,28,Liverpool
+306,Ivan Rakitić,Croatia,MF,30,Barcelona
+307,Mateo Kovačić,Croatia,MF,24,Real Madrid
+308,Andrej Kramarić,Croatia,FW,26,1899 Hoffenheim
+309,Luka Modrić,Croatia,MF,32,Real Madrid
+310,Marcelo Brozović,Croatia,MF,25,Inter Milan
+311,Lovre Kalinić,Croatia,GK,28,Gent
+312,Tin Jedvaj,Croatia,DF,22,Bayer Leverkusen
+313,Filip Bradarić,Croatia,MF,26,Rijeka
+314,Duje Ćaleta-Car,Croatia,DF,21,Red Bull Salzburg
+315,Nikola Kalinić,Croatia,FW,30,Milan
+316,Mario Mandžukić,Croatia,FW,32,Juventus
+317,Ante Rebić,Croatia,FW,24,Eintracht Frankfurt
+318,Milan Badelj,Croatia,MF,29,Fiorentina
+319,Marko Pjaca,Croatia,FW,23,Schalke 04
+320,Domagoj Vida,Croatia,DF,29,Beşiktaş
+321,Josip Pivarić,Croatia,DF,29,Dynamo Kyiv
+322,Danijel Subašić,Croatia,GK,33,Monaco
+323,Hannes Þór Halldórsson,Iceland,GK,34,Randers
+324,Birkir Már Sævarsson,Iceland,DF,33,Valur
+325,Samúel Friðjónsson,Iceland,MF,22,Vålerenga
+326,Albert Guðmundsson,Iceland,MF,20,PSV Eindhoven
+327,Sverrir Ingi Ingason,Iceland,DF,24,Rostov
+328,Ragnar Sigurðsson,Iceland,DF,31,Rostov
+329,Jóhann Berg Guðmundsson,Iceland,MF,27,Burnley
+330,Birkir Bjarnason,Iceland,MF,30,Aston Villa
+331,Björn Bergmann Sigurðarson,Iceland,FW,27,Rostov
+332,Gylfi Sigurðsson,Iceland,MF,28,Everton
+333,Alfreð Finnbogason,Iceland,FW,29,FC Augsburg
+334,Frederik Schram,Iceland,GK,23,Roskilde
+335,Rúnar Alex Rúnarsson,Iceland,GK,23,Nordsjælland
+336,Kári Árnason,Iceland,DF,35,Aberdeen
+337,Hólmar Örn Eyjólfsson,Iceland,DF,27,Levski Sofia
+338,Ólafur Ingi Skúlason,Iceland,MF,35,Kardemir Karabükspor
+339,Aron Gunnarsson,Iceland,MF,29,Cardiff City
+340,Hörður Björgvin Magnússon,Iceland,DF,25,Bristol City
+341,Rúrik Gíslason,Iceland,MF,30,SV Sandhausen
+342,Emil Hallfreðsson,Iceland,MF,33,Udinese
+343,Arnór Ingvi Traustason,Iceland,MF,25,Malmö FF
+344,Jón Daði Böðvarsson,Iceland,FW,26,Reading
+345,Ari Freyr Skúlason,Iceland,DF,31,Lokeren
+346,Ikechukwu Ezenwa,Nigeria,GK,29,Enyimba
+347,Brian Idowu,Nigeria,DF,26,Amkar Perm
+348,Elderson Echiéjilé,Nigeria,DF,30,Cercle Brugge
+349,Wilfred Ndidi,Nigeria,MF,21,Leicester City
+350,William Troost-Ekong,Nigeria,DF,24,Bursaspor
+351,Leon Balogun,Nigeria,DF,29,Mainz 05
+352,Ahmed Musa,Nigeria,FW,25,CSKA Moscow
+353,Peter Etebo,Nigeria,MF,22,Las Palmas
+354,Odion Ighalo,Nigeria,FW,28,Changchun Yatai
+355,John Obi Mikel,Nigeria,MF,31,Tianjin TEDA
+356,Victor Moses,Nigeria,FW,27,Chelsea
+357,Shehu Abdullahi,Nigeria,DF,25,Bursaspor
+358,Simeon Nwankwo,Nigeria,FW,26,Crotone
+359,Kelechi Iheanacho,Nigeria,FW,22,Leicester City
+360,Joel Obi,Nigeria,MF,27,Torino
+361,Daniel Akpeyi,Nigeria,GK,32,Chippa United
+362,Ogenyi Onazi,Nigeria,MF,25,Trabzonspor
+363,Alex Iwobi,Nigeria,FW,22,Arsenal
+364,John Ogu,Nigeria,MF,30,Hapoel Be'er Sheva
+365,Chidozie Awaziem,Nigeria,DF,21,Nantes
+366,Tyronne Ebuehi,Nigeria,DF,22,ADO Den Haag
+367,Kenneth Omeruo,Nigeria,DF,24,Kasımpaşa
+368,Francis Uzoho,Nigeria,GK,19,Deportivo La Coruña
+369,Alisson,Brazil,GK,25,Roma
+370,Thiago Silva,Brazil,DF,33,Paris Saint-Germain
+371,Miranda,Brazil,DF,33,Inter Milan
+372,Pedro Geromel,Brazil,DF,32,Grêmio
+373,Casemiro,Brazil,MF,26,Real Madrid
+374,Filipe Luís,Brazil,DF,32,Atlético Madrid
+375,Douglas Costa,Brazil,FW,27,Juventus
+376,Renato Augusto,Brazil,MF,30,Beijing Sinobo Guoan
+377,Gabriel Jesus,Brazil,FW,21,Manchester City
+378,Neymar,Brazil,FW,26,Paris Saint-Germain
+379,Philippe Coutinho,Brazil,MF,26,Barcelona
+380,Marcelo,Brazil,DF,30,Real Madrid
+381,Marquinhos,Brazil,DF,24,Paris Saint-Germain
+382,Danilo,Brazil,DF,26,Manchester City
+383,Paulinho,Brazil,MF,29,Barcelona
+384,Cássio,Brazil,GK,31,Corinthians
+385,Fernandinho,Brazil,MF,33,Manchester City
+386,Fred,Brazil,MF,25,Shakhtar Donetsk
+387,Willian,Brazil,MF,29,Chelsea
+388,Roberto Firmino,Brazil,FW,26,Liverpool
+389,Taison,Brazil,FW,30,Shakhtar Donetsk
+390,Fagner,Brazil,DF,29,Corinthians
+391,Ederson,Brazil,GK,24,Manchester City
+392,Keylor Navas,Rica,GK,31,Real Madrid
+393,Jhonny Acosta,Rica,DF,34,Águilas Doradas
+394,Giancarlo González,Rica,DF,30,Bologna
+395,Ian Smith,Rica,DF,20,Norrköping
+396,Celso Borges,Rica,MF,30,Deportivo La Coruña
+397,Óscar Duarte,Rica,DF,29,Espanyol
+398,Christian Bolaños,Rica,MF,34,Saprissa
+399,Bryan Oviedo,Rica,DF,28,Sunderland
+400,Daniel Colindres,Rica,MF,33,Saprissa
+401,Bryan Ruiz,Rica,MF,32,Sporting CP
+402,Johan Venegas,Rica,FW,29,Saprissa
+403,Joel Campbell,Rica,FW,25,Real Betis
+404,Rodney Wallace,Rica,MF,29,New York City FC
+405,Randall Azofeifa,Rica,MF,33,Herediano
+406,Francisco Calvo,Rica,DF,25,Minnesota United
+407,Cristian Gamboa,Rica,DF,28,Celtic
+408,Yeltsin Tejeda,Rica,MF,26,Lausanne
+409,Patrick Pemberton,Rica,GK,36,Alajuelense
+410,Kendall Waston,Rica,DF,30,Vancouver Whitecaps FC
+411,David Guzmán,Rica,MF,28,Portland Timbers
+412,Marco Ureña,Rica,FW,28,Los Angeles FC
+413,Kenner Gutiérrez,Rica,DF,29,Alajuelense
+414,Leonel Moreira,Rica,GK,28,Herediano
+415,Vladimir Stojković,Serbia,GK,34,Partizan
+416,Antonio Rukavina,Serbia,DF,34,Villarreal
+417,Duško Tošić,Serbia,DF,33,Beşiktaş
+418,Luka Milivojević,Serbia,MF,27,Crystal Palace
+419,Uroš Spajić,Serbia,DF,25,Anderlecht
+420,Branislav Ivanović,Serbia,DF,34,Zenit Saint Petersburg
+421,Andrija Živković,Serbia,MF,21,Benfica
+422,Aleksandar Prijović,Serbia,FW,28,PAOK
+423,Aleksandar Mitrović,Serbia,FW,23,Fulham
+424,Dušan Tadić,Serbia,MF,29,Southampton
+425,Aleksandar Kolarov,Serbia,DF,32,Roma
+426,Predrag Rajković,Serbia,GK,22,Maccabi Tel Aviv
+427,Miloš Veljković,Serbia,DF,22,Werder Bremen
+428,Milan Rodić,Serbia,DF,27,Red Star Belgrade
+429,Nikola Milenković,Serbia,DF,20,Fiorentina
+430,Marko Grujić,Serbia,MF,22,Cardiff City
+431,Filip Kostić,Serbia,MF,25,Hamburger SV
+432,Nemanja Radonjić,Serbia,FW,22,Red Star Belgrade
+433,Luka Jović,Serbia,FW,20,Eintracht Frankfurt
+434,Sergej Milinković-Savić,Serbia,MF,23,Lazio
+435,Nemanja Matić,Serbia,MF,29,Manchester United
+436,Adem Ljajić,Serbia,MF,26,Torino
+437,Marko Dmitrović,Serbia,GK,26,Eibar
+438,Yann Sommer,Switzerland,GK,29,Borussia Mönchengladbach
+439,Stephan Lichtsteiner,Switzerland,DF,34,Juventus
+440,François Moubandje,Switzerland,DF,27,Toulouse
+441,Nico Elvedi,Switzerland,DF,21,Borussia Mönchengladbach
+442,Manuel Akanji,Switzerland,DF,22,Borussia Dortmund
+443,Michael Lang,Switzerland,DF,27,Basel
+444,Breel Embolo,Switzerland,FW,21,Schalke 04
+445,Remo Freuler,Switzerland,MF,26,Atalanta
+446,Haris Seferovic,Switzerland,FW,26,Benfica
+447,Granit Xhaka,Switzerland,MF,25,Arsenal
+448,Valon Behrami,Switzerland,MF,33,Udinese
+449,Yvon Mvogo,Switzerland,GK,24,RB Leipzig
+450,Ricardo Rodríguez,Switzerland,DF,25,Milan
+451,Steven Zuber,Switzerland,MF,26,1899 Hoffenheim
+452,Blerim Džemaili,Switzerland,MF,32,Bologna
+453,Gelson Fernandes,Switzerland,MF,31,Eintracht Frankfurt
+454,Denis Zakaria,Switzerland,MF,21,Borussia Mönchengladbach
+455,Mario Gavranović,Switzerland,FW,28,Dinamo Zagreb
+456,Josip Drmić,Switzerland,FW,25,Borussia Mönchengladbach
+457,Johan Djourou,Switzerland,DF,31,Antalyaspor
+458,Roman Bürki,Switzerland,GK,27,Borussia Dortmund
+459,Fabian Schär,Switzerland,DF,26,Deportivo La Coruña
+460,Xherdan Shaqiri,Switzerland,MF,26,Stoke City
+461,Manuel Neuer,Germany,GK,32,Bayern Munich
+462,Marvin Plattenhardt,Germany,DF,26,Hertha BSC
+463,Jonas Hector,Germany,DF,28,1. FC Köln
+464,Matthias Ginter,Germany,DF,24,Borussia Mönchengladbach
+465,Mats Hummels,Germany,DF,29,Bayern Munich
+466,Sami Khedira,Germany,MF,31,Juventus
+467,Julian Draxler,Germany,MF,24,Paris Saint-Germain
+468,Toni Kroos,Germany,MF,28,Real Madrid
+469,Timo Werner,Germany,FW,22,RB Leipzig
+470,Mesut Özil,Germany,MF,29,Arsenal
+471,Marco Reus,Germany,FW,29,Borussia Dortmund
+472,Kevin Trapp,Germany,GK,27,Paris Saint-Germain
+473,Thomas Müller,Germany,MF,28,Bayern Munich
+474,Leon Goretzka,Germany,MF,23,Schalke 04
+475,Niklas Süle,Germany,DF,22,Bayern Munich
+476,Antonio Rüdiger,Germany,DF,25,Chelsea
+477,Jérôme Boateng,Germany,DF,29,Bayern Munich
+478,Joshua Kimmich,Germany,DF,23,Bayern Munich
+479,Sebastian Rudy,Germany,MF,28,Bayern Munich
+480,Julian Brandt,Germany,MF,22,Bayer Leverkusen
+481,İlkay Gündoğan,Germany,MF,27,Manchester City
+482,Marc-André ter Stegen,Germany,GK,26,Barcelona
+483,Mario Gómez,Germany,FW,32,VfB Stuttgart
+484,José de Jesús Corona,Mexico,GK,37,Cruz Azul
+485,Hugo Ayala,Mexico,DF,31,UANL
+486,Carlos Salcedo,Mexico,DF,24,Eintracht Frankfurt
+487,Rafael Márquez,Mexico,DF,39,Atlas
+488,Érick Gutiérrez,Mexico,MF,22,Pachuca
+489,Jonathan dos Santos,Mexico,MF,28,LA Galaxy
+490,Miguel Layún,Mexico,MF,29,Sevilla
+491,Marco Fabián,Mexico,FW,28,Eintracht Frankfurt
+492,Raúl Jiménez,Mexico,FW,27,Benfica
+493,Giovani dos Santos,Mexico,MF,29,LA Galaxy
+494,Carlos Vela,Mexico,FW,29,Los Angeles FC
+495,Alfredo Talavera,Mexico,GK,35,Toluca
+496,Guillermo Ochoa,Mexico,GK,32,Standard Liège
+497,Javier Hernández,Mexico,FW,30,West Ham United
+498,Héctor Moreno,Mexico,DF,30,Real Sociedad
+499,Héctor Herrera,Mexico,DF,28,Porto
+500,Jesús Manuel Corona,Mexico,MF,25,Porto
+501,Andrés Guardado,Mexico,MF,31,Real Betis
+502,Oribe Peralta,Mexico,FW,34,América
+503,Javier Aquino,Mexico,MF,28,UANL
+504,Edson Álvarez,Mexico,DF,20,América
+505,Hirving Lozano,Mexico,FW,22,PSV Eindhoven
+506,Jesús Gallardo,Mexico,MF,23,UNAM
+507,Kim Seung-gyu,Korea,GK,27,Vissel Kobe
+508,Lee Yong,Korea,DF,31,Jeonbuk Hyundai Motors
+509,Jung Seung-hyun,Korea,DF,24,Sagan Tosu
+510,Oh Ban-suk,Korea,DF,30,Jeju United
+511,Yun Young-sun,Korea,DF,29,Seongnam FC
+512,Park Joo-ho,Korea,DF,31,Ulsan Hyundai
+513,Son Heung-min,Korea,FW,25,Tottenham Hotspur
+514,Ju Se-jong,Korea,MF,27,Asan Mugunghwa
+515,Kim Shin-wook,Korea,FW,30,Jeonbuk Hyundai Motors
+516,Lee Seung-woo,Korea,MF,20,Hellas Verona
+517,Hwang Hee-chan,Korea,FW,22,Red Bull Salzburg
+518,Kim Min-woo,Korea,DF,28,Sangju Sangmu
+519,Koo Ja-cheol,Korea,MF,29,FC Augsburg
+520,Hong Chul,Korea,DF,27,Sangju Sangmu
+521,Jung Woo-young,Korea,MF,28,Vissel Kobe
+522,Ki Sung-yueng,Korea,MF,29,Swansea City
+523,Lee Jae-sung,Korea,MF,25,Jeonbuk Hyundai Motors
+524,Moon Seon-min,Korea,MF,26,Incheon United
+525,Kim Young-gwon,Korea,DF,28,Guangzhou Evergrande
+526,Jang Hyun-soo,Korea,DF,26,FC Tokyo
+527,Kim Jin-hyeon,Korea,GK,30,Cerezo Osaka
+528,Go Yo-han,Korea,DF,30,FC Seoul
+529,Jo Hyeon-woo,Korea,GK,26,Daegu FC
+530,Robin Olsen,Sweden,GK,28,Copenhagen
+531,Mikael Lustig,Sweden,DF,31,Celtic
+532,Victor Lindelöf,Sweden,DF,23,Manchester United
+533,Andreas Granqvist,Sweden,DF,33,Krasnodar
+534,Martin Olsson,Sweden,DF,30,Swansea City
+535,Ludwig Augustinsson,Sweden,DF,24,Werder Bremen
+536,Sebastian Larsson,Sweden,MF,33,Hull City
+537,Albin Ekdal,Sweden,MF,28,Hamburger SV
+538,Marcus Berg,Sweden,FW,31,Al Ain
+539,Emil Forsberg,Sweden,MF,26,RB Leipzig
+540,John Guidetti,Sweden,FW,26,Alavés
+541,Karl-Johan Johnsson,Sweden,GK,28,Guingamp
+542,Gustav Svensson,Sweden,MF,31,Seattle Sounders FC
+543,Filip Helander,Sweden,DF,25,Bologna
+544,Oscar Hiljemark,Sweden,MF,25,Genoa
+545,Emil Krafth,Sweden,DF,23,Bologna
+546,Viktor Claesson,Sweden,MF,26,Krasnodar
+547,Pontus Jansson,Sweden,DF,27,Leeds United
+548,Marcus Rohdén,Sweden,MF,27,Crotone
+549,Ola Toivonen,Sweden,FW,31,Toulouse
+550,Jimmy Durmaz,Sweden,MF,29,Toulouse
+551,Isaac Kiese Thelin,Sweden,FW,25,Waasland-Beveren
+552,Kristoffer Nordfeldt,Sweden,GK,28,Swansea City
+553,Thibaut Courtois,Belgium,GK,26,Chelsea
+554,Toby Alderweireld,Belgium,DF,29,Tottenham Hotspur
+555,Thomas Vermaelen,Belgium,DF,32,Barcelona
+556,Vincent Kompany,Belgium,DF,32,Manchester City
+557,Jan Vertonghen,Belgium,DF,31,Tottenham Hotspur
+558,Axel Witsel,Belgium,MF,29,Tianjin Quanjian
+559,Kevin De Bruyne,Belgium,MF,26,Manchester City
+560,Marouane Fellaini,Belgium,MF,30,Manchester United
+561,Romelu Lukaku,Belgium,FW,25,Manchester United
+562,Eden Hazard,Belgium,FW,27,Chelsea
+563,Yannick Carrasco,Belgium,MF,24,Dalian Yifang
+564,Simon Mignolet,Belgium,GK,30,Liverpool
+565,Koen Casteels,Belgium,GK,25,VfL Wolfsburg
+566,Dries Mertens,Belgium,FW,31,Napoli
+567,Thomas Meunier,Belgium,DF,26,Paris Saint-Germain
+568,Thorgan Hazard,Belgium,MF,25,Borussia Mönchengladbach
+569,Youri Tielemans,Belgium,MF,21,Monaco
+570,Adnan Januzaj,Belgium,FW,23,Real Sociedad
+571,Mousa Dembélé,Belgium,MF,30,Tottenham Hotspur
+572,Dedryck Boyata,Belgium,DF,27,Celtic
+573,Michy Batshuayi,Belgium,FW,24,Borussia Dortmund
+574,Nacer Chadli,Belgium,MF,28,West Bromwich Albion
+575,Leander Dendoncker,Belgium,DF,23,Anderlecht
+576,Jordan Pickford,England,GK,24,Everton
+577,Kyle Walker,England,DF,28,Manchester City
+578,Danny Rose,England,DF,27,Tottenham Hotspur
+579,Eric Dier,England,MF,24,Tottenham Hotspur
+580,John Stones,England,DF,24,Manchester City
+581,Harry Maguire,England,DF,25,Leicester City
+582,Jesse Lingard,England,MF,25,Manchester United
+583,Jordan Henderson,England,MF,27,Liverpool
+584,Harry Kane,England,FW,24,Tottenham Hotspur
+585,Raheem Sterling,England,FW,23,Manchester City
+586,Jamie Vardy,England,FW,31,Leicester City
+587,Kieran Trippier,England,DF,27,Tottenham Hotspur
+588,Jack Butland,England,GK,25,Stoke City
+589,Danny Welbeck,England,FW,27,Arsenal
+590,Gary Cahill,England,DF,32,Chelsea
+591,Phil Jones,England,DF,26,Manchester United
+592,Fabian Delph,England,DF,28,Manchester City
+593,Ashley Young,England,DF,32,Manchester United
+594,Marcus Rashford,England,FW,20,Manchester United
+595,Dele Alli,England,MF,22,Tottenham Hotspur
+596,Ruben Loftus-Cheek,England,MF,22,Crystal Palace
+597,Trent Alexander-Arnold,England,DF,19,Liverpool
+598,Nick Pope,England,GK,26,Burnley
+599,Jaime Penedo,Panama,GK,36,Dinamo București
+600,Michael Amir Murillo,Panama,DF,22,New York Red Bulls
+601,Harold Cummings,Panama,DF,26,San Jose Earthquakes
+602,Fidel Escobar,Panama,DF,23,New York Red Bulls
+603,Román Torres,Panama,DF,32,Seattle Sounders FC
+604,Gabriel Gómez,Panama,MF,34,Atlético Bucaramanga
+605,Blas Pérez,Panama,FW,37,Municipal
+606,Yoel Bárcenas,Panama,MF,24,Tapachula
+607,Gabriel Torres,Panama,FW,29,Huachipato
+608,Ismael Díaz,Panama,FW,21,Deportivo Fabril
+609,Armando Cooper,Panama,MF,30,Universidad de Chile
+610,José Calderón,Panama,GK,32,Chorrillo
+611,Adolfo Machado,Panama,DF,33,Houston Dynamo
+612,Valentín Pimentel,Panama,MF,27,Plaza Amador
+613,Erick Davis,Panama,DF,27,Dunajská Streda
+614,Abdiel Arroyo,Panama,FW,24,Alajuelense
+615,Luis Ovalle,Panama,DF,29,CD Olimpia
+616,Luis Tejada,Panama,FW,36,Sport Boys
+617,Ricardo Ávila,Panama,MF,21,Gent
+618,Aníbal Godoy,Panama,MF,28,San Jose Earthquakes
+619,José Luis Rodríguez,Panama,MF,19,Gent
+620,Álex Rodríguez,Panama,GK,27,San Francisco
+621,Felipe Baloy,Panama,DF,37,Municipal
+622,Farouk Ben Mustapha,Tunisia,GK,28,Al Shabab
+623,Syam Ben Youssef,Tunisia,DF,29,Kasımpaşa
+624,Yohan Benalouane,Tunisia,DF,31,Leicester City
+625,Yassine Meriah,Tunisia,DF,24,CS Sfaxien
+626,Oussama Haddadi,Tunisia,DF,26,Dijon
+627,Rami Bedoui,Tunisia,DF,28,Étoile du Sahel
+628,Saîf-Eddine Khaoui,Tunisia,FW,23,Troyes
+629,Fakhreddine Ben Youssef,Tunisia,FW,26,Al-Ettifaq
+630,Anice Badri,Tunisia,MF,27,Espérance de Tunis
+631,Wahbi Khazri,Tunisia,FW,27,Rennes
+632,Dylan Bronn,Tunisia,DF,22,Gent
+633,Ali Maâloul,Tunisia,DF,28,Al Ahly
+634,Ferjani Sassi,Tunisia,MF,26,Al Nassr
+635,Mohamed Amine Ben Amor,Tunisia,MF,26,Al Ahli
+636,Ahmed Khalil,Tunisia,FW,23,Club Africain
+637,Aymen Mathlouthi,Tunisia,GK,33,Al Batin
+638,Ellyes Skhiri,Tunisia,MF,23,Montpellier
+639,Bassem Srarfi,Tunisia,FW,20,Nice
+640,Saber Khalifa,Tunisia,FW,31,Club Africain
+641,Ghailene Chaalali,Tunisia,FW,24,Espérance de Tunis
+642,Hamdi Nagguez,Tunisia,DF,25,Zamalek
+643,Mouez Hassen,Tunisia,GK,23,Châteauroux
+644,Naïm Sliti,Tunisia,FW,25,Dijon
+645,David Ospina,Colombia,GK,29,Arsenal
+646,Cristián Zapata,Colombia,DF,31,Milan
+647,Óscar Murillo,Colombia,DF,30,Pachuca
+648,Santiago Arias,Colombia,DF,26,PSV Eindhoven
+649,Wilmar Barrios,Colombia,MF,24,Boca Juniors
+650,Carlos Sánchez,Colombia,MF,32,Espanyol
+651,Carlos Bacca,Colombia,FW,31,Villarreal
+652,Abel Aguilar,Colombia,MF,33,Deportivo Cali
+653,Radamel Falcao,Colombia,FW,32,Monaco
+654,James Rodríguez,Colombia,MF,26,Bayern Munich
+655,Juan Cuadrado,Colombia,MF,30,Juventus
+656,Camilo Vargas,Colombia,GK,29,Deportivo Cali
+657,Yerry Mina,Colombia,DF,23,Barcelona
+658,Luis Muriel,Colombia,FW,27,Sevilla
+659,Mateus Uribe,Colombia,MF,27,América
+660,Jefferson Lerma,Colombia,MF,23,Levante
+661,Johan Mojica,Colombia,DF,25,Girona
+662,Farid Díaz,Colombia,DF,34,Olimpia
+663,Miguel Borja,Colombia,FW,25,Palmeiras
+664,Juan Fernando Quintero,Colombia,MF,25,River Plate
+665,José Izquierdo,Colombia,FW,25,Brighton & Hove Albion
+666,José Fernando Cuadrado,Colombia,GK,33,Once Caldas
+667,Davinson Sánchez,Colombia,DF,22,Tottenham Hotspur
+668,Eiji Kawashima,Japan,GK,35,Metz
+669,Naomichi Ueda,Japan,DF,23,Kashima Antlers
+670,Gen Shoji,Japan,DF,25,Kashima Antlers
+671,Keisuke Honda,Japan,MF,32,Pachuca
+672,Yuto Nagatomo,Japan,DF,31,Galatasaray
+673,Wataru Endō,Japan,DF,25,Urawa Red Diamonds
+674,Gaku Shibasaki,Japan,MF,26,Getafe
+675,Genki Haraguchi,Japan,MF,27,Fortuna Düsseldorf
+676,Shinji Okazaki,Japan,FW,32,Leicester City
+677,Shinji Kagawa,Japan,MF,29,Borussia Dortmund
+678,Takashi Usami,Japan,MF,26,Fortuna Düsseldorf
+679,Masaaki Higashiguchi,Japan,GK,32,Gamba Osaka
+680,Yoshinori Muto,Japan,FW,25,Mainz 05
+681,Takashi Inui,Japan,MF,30,Eibar
+682,Yuya Osako,Japan,FW,28,1. FC Köln
+683,Hotaru Yamaguchi,Japan,MF,27,Cerezo Osaka
+684,Makoto Hasebe,Japan,MF,34,Eintracht Frankfurt
+685,Ryota Oshima,Japan,MF,25,Kawasaki Frontale
+686,Hiroki Sakai,Japan,DF,28,Marseille
+687,Tomoaki Makino,Japan,DF,31,Urawa Red Diamonds
+688,Gōtoku Sakai,Japan,DF,27,Hamburger SV
+689,Maya Yoshida,Japan,DF,29,Southampton
+690,Kosuke Nakamura,Japan,GK,23,Kashiwa Reysol
+691,Wojciech Szczęsny,Poland,GK,28,Juventus
+692,Michał Pazdan,Poland,DF,30,Legia Warsaw
+693,Artur Jędrzejczyk,Poland,DF,30,Legia Warsaw
+694,Thiago Cionek,Poland,DF,32,SPAL
+695,Jan Bednarek,Poland,DF,22,Southampton
+696,Jacek Góralski,Poland,MF,25,Ludogorets Razgrad
+697,Arkadiusz Milik,Poland,FW,24,Napoli
+698,Karol Linetty,Poland,MF,23,Sampdoria
+699,Robert Lewandowski,Poland,FW,29,Bayern Munich
+700,Grzegorz Krychowiak,Poland,MF,28,West Bromwich Albion
+701,Kamil Grosicki,Poland,MF,30,Hull City
+702,Bartosz Białkowski,Poland,GK,30,Ipswich Town
+703,Maciej Rybus,Poland,MF,28,Lokomotiv Moscow
+704,Łukasz Teodorczyk,Poland,FW,27,Anderlecht
+705,Kamil Glik,Poland,DF,30,Monaco
+706,Jakub Błaszczykowski,Poland,MF,32,VfL Wolfsburg
+707,Sławomir Peszko,Poland,MF,33,Lechia Gdańsk
+708,Bartosz Bereszyński,Poland,DF,25,Sampdoria
+709,Piotr Zieliński,Poland,MF,24,Napoli
+710,Łukasz Piszczek,Poland,DF,33,Borussia Dortmund
+711,Rafał Kurzawa,Poland,MF,25,Górnik Zabrze
+712,Łukasz Fabiański,Poland,GK,33,Swansea City
+713,Dawid Kownacki,Poland,FW,21,Sampdoria
+714,Abdoulaye Diallo,Senegal,GK,26,Rennes
+715,Adama Mbengue,Senegal,DF,24,Caen
+716,Kalidou Koulibaly,Senegal,DF,26,Napoli
+717,Kara Mbodji,Senegal,DF,28,Anderlecht
+718,Idrissa Gueye,Senegal,MF,28,Everton
+719,Salif Sané,Senegal,MF,27,Hannover 96
+720,Moussa Sow,Senegal,FW,32,Bursaspor
+721,Cheikhou Kouyaté,Senegal,MF,28,West Ham United
+722,Mame Biram Diouf,Senegal,FW,30,Stoke City
+723,Sadio Mané,Senegal,FW,26,Liverpool
+724,Cheikh N'Doye,Senegal,MF,32,Birmingham City
+725,Youssouf Sabaly,Senegal,DF,25,Bordeaux
+726,Alfred N'Diaye,Senegal,MF,28,Wolverhampton Wanderers
+727,Moussa Konaté,Senegal,FW,25,Amiens
+728,Diafra Sakho,Senegal,FW,28,Rennes
+729,Khadim N'Diaye,Senegal,GK,33,Horoya
+730,Badou Ndiaye,Senegal,MF,27,Stoke City
+731,Ismaïla Sarr,Senegal,FW,20,Rennes
+732,M'Baye Niang,Senegal,FW,23,Torino
+733,Keita Baldé,Senegal,FW,23,Monaco
+734,Lamine Gassama,Senegal,DF,28,Alanyaspor
+735,Moussa Wagué,Senegal,DF,19,Eupen
+736,Alfred Gomis,Senegal,GK,24,SPAL
